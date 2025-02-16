@@ -33,5 +33,5 @@ This project is a simple reminder application built with shell scripting. It hel
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Mar-tins/submission_reminder_app_gitMar-tins.git
-   cd submission_reminder_app_gitMar-tins
+   git clone https://github.com/Mar-tins/submission_reminder_app_Mar-tins.git
+   cd submission_reminder_app_Mar-tins
